@@ -1,8 +1,13 @@
 import optparse
-import psutil
 import time
 import logging
 import os
+try:
+	import psutil
+except:
+	os.sys("python3 -m pip psutil")
+	import psutil
+
 
 RUN = True
 # RUN = False
