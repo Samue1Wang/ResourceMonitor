@@ -1,0 +1,7 @@
+setup.py
+ResourceMonitor/ResourcesMonitor.py
+ResourceMonitor.egg-info/PKG-INFO
+ResourceMonitor.egg-info/SOURCES.txt
+ResourceMonitor.egg-info/dependency_links.txt
+ResourceMonitor.egg-info/requires.txt
+ResourceMonitor.egg-info/top_level.txt
