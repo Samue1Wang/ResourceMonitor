@@ -6,7 +6,7 @@ try:
 	import psutil
 except:
 	os.system("python -m pip install psutil")
-	import psutil
+import psutil
 
 
 RUN = True
